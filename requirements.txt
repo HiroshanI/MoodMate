@@ -1,6 +1,6 @@
 numpy==2.1.2
 pandas==2.2.3
-Pillow==11.0.0
+Pillow<11.0.0
 plotly==5.21.0
 python-dotenv==1.0.1
 Requests==2.32.3
